@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Jann!
-I love all things web/software development, and passionate about exploring the realms of coding, machine learning, and building robust applications.
+I love all things web/software development, and am especially passionate about exploring the realms of coding, machine learning, and building robust applications.
 
 ## ✏️ Some of my projects...
 😛  [**Muncher**](https://app-five-theta.vercel.app/), a food delivery app that showcases featured restaurants
