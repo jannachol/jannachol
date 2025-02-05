@@ -1,5 +1,8 @@
-# 💫 About Me:
-👋 Hi there, I'm Jann!<br>I love all things web/software development, and passionate about exploring the realms of coding, machine learning, and building robust applications.<br><br>✏️ Some of my projects...<br>😛 Muncher: https://app-five-theta.vercel.app/<br>
+# 👋 Hi there, I'm Jann!
+I love all things web/software development, and passionate about exploring the realms of coding, machine learning, and building robust applications
+
+## ✏️ Some of my projects...
+😛  [**muncher**](https://app-five-theta.vercel.app/), food delivery app 
 
 
 ## 🌐 Socials:
